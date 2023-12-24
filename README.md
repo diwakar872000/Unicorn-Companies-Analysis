@@ -7,4 +7,6 @@ From the analysis, I found answers to interesting questions like -
 3. Trend of rise for unicorn companies from 2012 to 2022. 
 4. Which countries have the most unicorns? 
 5. Which Investors have funded the most number of unicorns?
+# Dashboard
+https://github.com/diwakar872000/Unicorn-Companies-Analysis/files/13761792/Unicorn.Companies.dashboard.pdf
    
